@@ -1,4 +1,4 @@
-<!-- GitHub Profile README - Kazuyoo_12 | Soft Futuristic Style -->
+
 
 <h1 align="center">Kazuyoo-stuff</h1>
 <h3 align="center">Developer | System Tweaker | Open Source</h3>
@@ -17,6 +17,10 @@
 🧩  Roles     : Shell Dev · Make Module
 🔧  Stack     : Shell
 🎯  Focus     : Optimization without compromise
+Specialization:
+  - Kernel tuning (CPU, VM, I/O, GPU)
+  - Android system responsiveness
+  - Low-latency gaming optimization
 ```
 
 ---
@@ -29,30 +33,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kazuyoo-stuff&theme=tokyonight&margin-w=5&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 🛠️ Tools, Languages & Passion
-
-```yaml
-Languages:
-  - Shell Script / Bash
-
-Specialization:
-  - Kernel tuning (CPU, VM, I/O, GPU)
-  - Android system responsiveness
-  - Low-latency gaming optimization
-
-Tools:
-  - Termux • ADB
-```
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kazuyoo-stuff&style=flat-square&color=7AA2F7" alt="Profile Views" />
