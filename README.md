@@ -21,18 +21,18 @@
 
 ---
 
-### 🔥 Activity Tracker
+### 🔥 GitHub Contributions & Achievements
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kazuyoo-stuff&theme=tokyonight&hide_border=true&currStreakLabel=FFFFFF&ring=7AA2F7&fire=BB9AF7&dates=AAAAAA" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazuyoo-stuff&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake Grid
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kazuyoo-stuff/Kazuyoo-stuff/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kazuyoo-stuff&theme=tokyonight&margin-w=5&no-bg=true&no-frame=true" />
 </p>
 
 ---
