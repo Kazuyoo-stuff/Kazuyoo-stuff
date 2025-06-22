@@ -1,6 +1,6 @@
 <!-- GitHub Profile README - Kazuyoo_12 | Soft Futuristic Style -->
 
-<h1 align="center">🌌 Kazuyoo_12</h1>
+<h1 align="center">Kazuyoo-stuff</h1>
 <h3 align="center">Developer | System Tweaker | Open Source</h3>
 
 <p align="center">
@@ -14,31 +14,10 @@
 ```bash
 📛  Name      : Kazuyoo_12
 📌  Motto     : “Calm is control.”
-🧩  Roles     : Kernel Tweaker · Shell Dev · System Refiner
-🔧  Stack     : C · C++ · Shell · Rust · Makefile
+🧩  Roles     : Shell Dev · Make Module
+🔧  Stack     : Shell
 🎯  Focus     : Optimization without compromise
 ```
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:dikinurrohmat42@gmail.com"><img src="https://img.shields.io/badge/Gmail-dikinurrohmat42-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/KzyoCh"><img src="https://img.shields.io/badge/Telegram-KzyoCh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://tiktok.com/@dikicl26"><img src="https://img.shields.io/badge/TikTok-@dikicl26-0F0F0F?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://youtube.com/@KazuyooOpenSources"><img src="https://img.shields.io/badge/YouTube-KazuyooOpenSources-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://instagram.com/dkinrhmt"><img src="https://img.shields.io/badge/Instagram-dkinrhmt-C13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazuyoo-stuff&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuyoo-stuff&layout=donut&theme=tokyonight&hide_title=true&langs_count=6" width="48%" />
-</p>
 
 ---
 
@@ -62,9 +41,7 @@
 
 ```yaml
 Languages:
-  - C / C++
   - Shell Script / Bash
-  - Rust / Makefile
 
 Specialization:
   - Kernel tuning (CPU, VM, I/O, GPU)
@@ -72,7 +49,7 @@ Specialization:
   - Low-latency gaming optimization
 
 Tools:
-  - Linux • Git • BusyBox • Termux • VIM • ADB • VScode
+  - Termux • ADB
 ```
 
 ---
