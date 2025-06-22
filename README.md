@@ -4,7 +4,7 @@
 <h3 align="center">Developer | System Tweaker | Open Source</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&center=true&vCenter=true&width=500&lines=Low-level+Performance+Coder;C%2FShell%2FRust+based+System+Tweaks;Minimalism+and+Stability+Focus;One+line+at+a+time..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&center=true&vCenter=true&width=500&lines=Low-level+Performance+Coder;%2FShell%2F+based+System+Tweaks;Minimalism+and+Stability+Focus;One+line+at+a+time..." />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ### 🐍 Contribution Snake Grid
 
 <p align="center">
-  <img src="https://github.com/Kazuyoo-stuff/Kazuyoo-stuff/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Kazuyoo-stuff/Kazuyoo-stuff/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
